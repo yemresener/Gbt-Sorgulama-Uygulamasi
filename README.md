@@ -1,4 +1,4 @@
-# Gbt-Sorgulama-Uygulamasi
+# Gbt Sorgulama Uygulaması
 Python programlama dili ile geliştirilmiş bir GBT sorgulama sistemidir.
 
 
